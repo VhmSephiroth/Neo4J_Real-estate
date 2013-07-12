@@ -104,9 +104,13 @@ becomes:
 | `link:./?5956246[Link to a GraphGist]` | link:./?5956246[Link to a GraphGist]
 |===
 
+Headings:
+
  = Heading 1
  == Heading 2
  === Heading 3
+
+Images:
 
  image::http://assets.neo4j.org/img/still/cineasts.gif[]
 
