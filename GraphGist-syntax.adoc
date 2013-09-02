@@ -18,8 +18,6 @@ becomes:
 
 //console
 
-NOTE: The page layout will work best when the console precedes the first query.
-
 == Define a http://docs.neo4j.org/chunked/snapshot/cypher-query-lang.html[Cypher] query
 
  [source,cypher]
