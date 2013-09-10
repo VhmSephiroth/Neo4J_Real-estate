@@ -73,6 +73,8 @@ CREATE (n{name:'neo4j'})-[:LIKES]->({name:'complex data'})
 RETURN n.name
 ----
 
+[NOTE]
+The test run will always run the queries from top to bottom, so it usually makes sense to have the setup query as the first query.
 
 == Show a graph visualization
 
