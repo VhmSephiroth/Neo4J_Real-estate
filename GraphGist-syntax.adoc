@@ -1,14 +1,6 @@
-= How to create a GraphGist
+= Intelligent Real-estate nder data-model
 
-You create a GraphGist by creating a https://gist.github.com/[GitHub Gist] in http://asciidoctor.org/docs/asciidoc-quick-reference/[AsciiDoc] and enter the URL to it in the form on this page.
-Alternatively, you can put an AsciiDoc document in https://www.dropbox.com/[Dropbox] and enter the public URL in the form.
 
-This GraphGist shows the basics of using AsciiDoc syntax and a few additions for GraphGists.
-The additions are entered as comments on their own line.
-They are:  +//console+ for a query console; +//hide+, +//setup+ and +//output+ to configure a query; +//graph+ and +//table+ to visualize queries and show a result table.
-
-Click on the Page Source button in the menu to see the source for this GraphGist.
-Read below to get the full details.
 
 == Include a query console
 
